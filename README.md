@@ -3,6 +3,8 @@ A simple visualization of the COVID-19 transmission.
 对COVID-19的传播做简单的模拟，传播可视化和对一些指标进行统计。
 上传了一个两分钟的视频展示大致结果。更加详细的介绍会在PPT中展示。
 
+运行需要使用c/c++EasyX图形库，下载地址：https://easyx.cn/
+
 大致思路：
 PartA:人群及其行动模式模型
   为降低工作量的同时保留一些核心特性：
