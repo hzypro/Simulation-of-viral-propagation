@@ -1,7 +1,13 @@
 # Simulation-of-viral-propagation
 A simple visualization of the COVID-19 transmission.
 对COVID-19的传播做简单的模拟，传播可视化和对一些指标进行统计。
-上传了一个两分钟的视频展示大致结果。更加详细的介绍会在PPT中展示。
+上传了一个两分钟的视频展示大致结果:https://www.bilibili.com/video/BV14f4y1677p/
+
+更加详细的介绍会在PPT中展示。
+
+以下是运行的截图
+
+![image](https://github.com/hzypro/Simulation-of-viral-propagation/blob/main/%E6%8D%95%E8%8E%B7.PNG)
 
 运行需要使用c/c++EasyX图形库，下载地址：https://easyx.cn/
 
